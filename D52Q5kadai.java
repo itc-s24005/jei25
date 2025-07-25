@@ -1,4 +1,4 @@
-public class D52Q5 {
+public class D52Q5kadai {
     public static void main(String[] args) {
         String majors = "+----";
         int LIMIT = 400;
