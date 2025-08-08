@@ -23,7 +23,7 @@ public class D53Q5 {
             int zeikomi, taxType;
             taxType = types[i] == 'f' ? FOODS : OTHER;
             zeikomi = zeinuki * (taxes[taxType] + 100) / 100;
-            System.out.println(names[i] + "¥t" + viewtype(types[i]));
+            System.out.print(names[i] + "¥t" + viewtype(types[i]));
             System.out.println(zeikomi + "円¥t" + viewtype(types[i]));
         }
     }
