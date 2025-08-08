@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class D53kadaiA {
     public static void main(String[] args) {
         int arr = 0;
